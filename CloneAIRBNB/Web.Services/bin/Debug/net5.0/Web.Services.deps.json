@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Web.Services/1.0.0": {
+        "dependencies": {
+          "Web.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Web.Services.dll": {}
+        }
+      },
+      "Web.Domain/1.0.0": {
+        "runtime": {
+          "Web.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
