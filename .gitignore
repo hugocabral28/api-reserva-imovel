@@ -133,4 +133,4 @@ $RECYCLE.BIN/
 _NCrunch*
 
 #Remove Banco
-_CloneAIRBNB/Web.Infra/bancoTCC.db
+CloneAIRBNB/Web.Infra/bancoTCC.db
