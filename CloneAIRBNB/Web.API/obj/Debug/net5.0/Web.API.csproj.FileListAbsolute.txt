@@ -116,7 +116,6 @@ D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\Web.API.cspro
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\staticwebassets\Web.API.StaticWebAssets.Manifest.cache
-D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\staticwebassets\Web.API.StaticWebAssets.xml
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\scopedcss\bundle\Web.API.styles.css
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\Web.API.RazorTargetAssemblyInfo.cache
 D:\CWI\tcc\api-reserva-imovel\CloneAIRBNB\Web.API\obj\Debug\net5.0\Web.API.csproj.CopyComplete
