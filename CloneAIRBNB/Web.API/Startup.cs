@@ -39,6 +39,8 @@ namespace Web.API
             services.AddTransient<IUsuarioService, UsuarioService>();
             services.AddTransient<IUsuarioRepository, UsuarioRepository>();
             
+            services.AddTransient<IImovelService, ImovelService>();
+            services.AddTransient<IImovelRepository, ImovelRepository>();
 
 
         }

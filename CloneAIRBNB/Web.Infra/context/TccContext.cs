@@ -18,6 +18,7 @@ namespace Web.Infra.context
 
         public DbSet<Usuario> Users { get; set; }
         public DbSet<Endereco> Addresses { get; set; }
+        public DbSet<Imovel> Imovel { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -27,6 +28,9 @@ namespace Web.Infra.context
 
             modelBuilder.Entity<Endereco>();
             modelBuilder.AddAddress();
+
+            modelBuilder.Entity<Imovel>();
+            modelBuilder.AddImovel();
 
         }
     }

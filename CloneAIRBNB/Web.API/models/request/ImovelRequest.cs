@@ -13,15 +13,14 @@ namespace Web.API.models.request
         public string Identificacao { get; set; }
         public TipoImovel TipoImovel { get; set; }
         public Endereco Endereco { get; set; }
-        public Usuario IdProprietario { get; set; }
+        public int IdProprietario { get; set; }
         public List<CaracteristicaImovel> Caracteristicas { get; set; }
 
         
-
         public ImovelRequest()
         {
         }
-        public ImovelRequest(string identificacao, TipoImovel tipoImovel, Endereco endereco, Usuario idProprietario, List<CaracteristicaImovel> caracteristicas)
+        public ImovelRequest(string identificacao, TipoImovel tipoImovel, Endereco endereco, int idProprietario, List<CaracteristicaImovel> caracteristicas)
         {
             Identificacao = identificacao;
             TipoImovel = tipoImovel;
